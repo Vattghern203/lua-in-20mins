@@ -1,4 +1,4 @@
-function fatorial(num)
+local function fatorial(num)
     if num == 0 or num == 1 then
         
         return 1
